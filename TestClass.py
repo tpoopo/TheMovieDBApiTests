@@ -1,5 +1,3 @@
-import pytest
-import requests
 import json
 import http.client
 from configparser import ConfigParser
